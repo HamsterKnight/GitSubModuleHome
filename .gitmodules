@@ -1,0 +1,3 @@
+[submodule "submodel-components"]
+	path = submodel-components
+	url = https://github.com/HamsterKnight/submodel-components.git
